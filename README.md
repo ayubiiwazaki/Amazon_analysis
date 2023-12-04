@@ -43,7 +43,7 @@ The project is structured as follows:
 
 ## Data Source
 The project uses data stored in an SQLite database. Ensure the database connection details are correctly configured.
-here's the link to file :
+here's the link to file :https://drive.google.com/file/d/1H7-pPFI2BjxHTdWSCb7e2ROWSjV03adx/view?usp=drive_link
 
 ## Conclusion
 This project provides valuable insights into Amazon user behavior, helping to identify trends, popular products, and user sentiments.
